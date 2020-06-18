@@ -1,0 +1,8 @@
+Bardzo du¿y problem mia³em na pocz¹tku, gdy okaza³o siê, ¿e dzia³ania takie jak w tutorialu nie przynios³y po¿¹danych skutków. 
+https://www.itechempires.com/2019/08/setting-up-the-react-development-environment/#Install_Create_React_App_Package
+Od tego momentu sz³o wzglêdnie g³adko, ale trochê zajê³o mi wykombinowanie najefektywniejszej drogi do tego by móc dodawaæ nowe zadania, szuka³em rozwi¹zania chyba parê dni i dopiero ludzie z Overmenta (serwer Discord o tematyce programistycznej) naprowadzili mnie na odpowiednie rozwi¹zanie, choæ musia³em kilkakrotnie poprawiaæ kod, zanim doszed³em do poprawnego. Potem mia³em drobny problem z wyœwietlaniem komunikatu o braku zadañ, ale choæ myœla³em, ¿e prace znów mu na jakiœ czas utkn¹ to okazalo siê w porê, ¿e to by³a zwyk³a literówka. 
+Generalnie myœlê, ¿e opanowa³em podstawy reacta (wczeœniej znanego mi tylko z nazwy) i w miarê dobrze opanowa³em takie rzeczy jak przekazywanie sobie danych i funkcji miêdzy komponentami, zarz¹dzanie stanem czy renderowanie warunkowe. I przy okazji utrwali³em "ternary"(nie mogê sobie przypomnieæ polskiego terminu na ten typ wyra¿eñ - warunek ? je¿eli prawda : je¿eli fa³sz)
+
+
+
+

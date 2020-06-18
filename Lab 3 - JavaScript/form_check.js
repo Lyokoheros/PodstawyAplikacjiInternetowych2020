@@ -1,4 +1,4 @@
-function alterRows(i, e) {
+function alterRows(i, e)  {
     if (e) {
         if (i % 2 == 1) {
             e.setAttribute("style", "background-color: Aqua;");
