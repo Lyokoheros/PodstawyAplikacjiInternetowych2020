@@ -56,7 +56,7 @@
         echo $_SESSION['zalogowanyImie'];
         echo "<br> zalogowano <br>";
         //".getcwd()."
-        $image = "<img src='".getcwd()."/zdjeciaUzytkownikow/avatar.png'"." alt='brak avatara' width=200>";
+        $image = "<img src='/lab5-php/zdjeciaUzytkownikow/avatar.png'"." alt='brak avatara'>";
 
         if(isset($_POST['submit']))
         {
